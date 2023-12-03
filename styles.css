@@ -1,0 +1,15 @@
+.high {
+    background-color: lightgreen;
+}
+
+.medium {
+    background-color: yellow;
+}
+
+.low {
+    background-color: lightpink;
+}
+
+li {
+    padding-bottom: 5px;
+}
